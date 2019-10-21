@@ -1,0 +1,1 @@
+<view class="ftl pl20 ft13 bgfff it1 c333">剩余<text class="cf0">{{leaveTime.h+"时"+leaveTime.m+"分"+leaveTime.s+"秒"}}</text></view>

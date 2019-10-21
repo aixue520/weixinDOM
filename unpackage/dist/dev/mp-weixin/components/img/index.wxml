@@ -1,0 +1,1 @@
+<image class="{{[epetClass?epetClass:'','image-block']}}" style="{{(imgStyle)}}" src="{{src+imgCutUrl}}" mode="{{mode}}" lazy-load="{{lazyLoad}}" data-imgindex="{{imgindex}}" data-event-opts="{{[['error',[['imgLoadError',['$event']]]],['load',[['imgLoad',['$event']]]]]}}" binderror="__e" bindload="__e"></image>

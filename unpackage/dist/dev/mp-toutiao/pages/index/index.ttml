@@ -1,0 +1,1 @@
+<view class="main"><swiper class="swiper" style="height:800rpx;" display-multiple-items="1"><block tt:for="{{images}}" tt:for-item="item" tt:for-index="index" tt:key="index"><swiper-item><image class="w100" src="{{item.url}}"></image></swiper-item></block></swiper></view>

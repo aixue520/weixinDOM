@@ -1,0 +1,55 @@
+
+.alert {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background: rgba(0, 0, 0, 0.5);
+}
+.alert .alert_con {
+	width: 80%;
+	background: #fff;
+	border-radius: 5rpx;
+}
+.alert .alert_con input {
+	border: 1rpx solid #e7e7e7;
+}
+.alert .alert_con ._span {
+	display: inline-block;
+	width: 50%;
+	height: 60rpx;
+	line-height: 60rpx;
+	border-radius: 30rpx;
+	background: #11C258;
+}
+
+/* scroll-into-view */
+.tab {
+	position: fixed;
+	width: 100%;
+	height: 5vh;
+	line-height: 5vh;
+	left: 0;
+	top: 0;
+	z-index: 1;
+	background: #fff;
+}
+.scroll-Y {
+	height: 95vh;
+	margin-top: 5vh;
+	background: #CD5C5C;
+}
+.classdemo view {
+	height: 200rpx;
+	line-height: 200rpx;
+}
+.canvas-box {
+	width: 100%;
+	height: 900rpx;
+}
+.img180 {
+	width: 180rpx;
+	height: 180rpx;
+}
+
